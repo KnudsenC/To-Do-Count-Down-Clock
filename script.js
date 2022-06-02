@@ -111,6 +111,6 @@ function createCountDown(element, distance) {
 	} else if(days >= 10) {
 		element.style.background = "#ffffe0";
 	} else if(days < 10) {
-		element.style.background = "#ffcccb";
+		element.style.background = "#ff0000";
 	};
 };
